@@ -1,0 +1,33 @@
+{
+    "start_time": "2019-08-24T14:15:22Z",
+    "end_time": "2019-08-24T14:15:22Z",
+    "extra": {},
+    "name": "string",
+    "description": "string",
+    "default_dataset_id": "467c3141-9a68-490e-ab5c-4000a5a11fa8",
+    "reference_dataset_id": "4abef5d4-9fac-44e9-b393-753a8de1db88",
+    "trace_tier": "longlived",
+    "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
+    "run_count": 0,
+    "latency_p50": 0,
+    "latency_p99": 0,
+    "first_token_p50": 0,
+    "first_token_p99": 0,
+    "total_tokens": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_cost": "string",
+    "prompt_cost": "string",
+    "completion_cost": "string",
+    "tenant_id": "34f5c98e-f430-457b-a812-92637d0c6fd0",
+    "last_run_start_time": "2019-08-24T14:15:22Z",
+    "last_run_start_time_live": "2019-08-24T14:15:22Z",
+    "feedback_stats": {},
+    "session_feedback_stats": {},
+    "run_facets": [
+      {}
+    ],
+    "error_rate": 0,
+    "streaming_rate": 0,
+    "test_run_number": 0
+  }
